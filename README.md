@@ -1,4 +1,4 @@
-# Ananda Julia Galvão Campelo
+# Ananda Julia Galvão Campêlo
 
 **Frontend Software Engineer | React, TypeScript, React Native**
 
