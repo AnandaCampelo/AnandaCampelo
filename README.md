@@ -58,8 +58,5 @@ I authored and merged [Matomo PR #22692](https://github.com/matomo-org/matomo/pu
 
 ## Contact
 
-I am open to graduate and junior frontend opportunities, including React and React Native roles, with particular interest in international product and fintech teams.
-
 - [LinkedIn](https://www.linkedin.com/in/anandajgc/)
-- [Email](mailto:anandag.c@hotmail.com)
 - [GitHub](https://github.com/AnandaCampelo)
