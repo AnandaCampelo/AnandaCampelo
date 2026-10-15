@@ -2,19 +2,14 @@
 
 **Frontend Software Engineer | React, TypeScript, React Native**
 
-São Paulo, Brazil | Open to international relocation  
-[LinkedIn](https://www.linkedin.com/in/anandajgc/) | [Email](mailto:anandag.c@hotmail.com)
+São Paulo, Brazil
+[LinkedIn](https://www.linkedin.com/in/anandajgc/)
 
-I build reliable user-facing products across web and mobile, with production experience in healthcare technology. I am completing a bachelor's degree in Computer Engineering at Insper and am interested in graduate and junior frontend opportunities within international product and fintech teams.
+I build reliable user-facing products across web and mobile, with production experience in healthcare technology. I am completing a bachelor's degree in Computer Engineering at Insper.
 
 ## Current work
 
 I am a Frontend Software Engineer Intern at [Portal Telemedicina](https://portaltelemedicina.com.br/), where I worked with React Native before moving to the React web team. I contribute to a healthcare platform that serves more than 33 million patients.
-
-- Shipped 30 merged and deployed pull requests across web and mobile products.
-- Built a patient-search module supporting name, CPF, and CNS queries, automatic input detection, 300 ms-debounced autocomplete, and real-time suggestions.
-- Developed medical-document, exam, and referral workflows involving PDF and image viewing, downloads, REST integrations, and inconsistent backend data.
-- Collaborate with design/UX, backend, and QA professionals in a four-person product team.
 
 ## Selected projects
 
